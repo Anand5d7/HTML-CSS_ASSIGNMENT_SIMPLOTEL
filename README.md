@@ -5,11 +5,11 @@
 Creating a responsive HTML and CSS assignment with media queries for the landing page.
 ## Table of Contents
 
- - [Project Overview](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Features](https://github.com/matiassingers/awesome-readme)
- - [Prequisites](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Projects Live](https://github.com/matiassingers/awesome-readme)
- - [Project Structure](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Project Overview]
+ - [Features]
+ - [Prequisites]
+ - [Projects Live]
+ - [Project Structure]
 
 
 
