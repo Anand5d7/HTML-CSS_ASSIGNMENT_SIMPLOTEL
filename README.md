@@ -5,11 +5,11 @@
 Creating a responsive HTML and CSS assignment with media queries for the landing page.
 ## Table of Contents
 
- - [Project Overview]
- - [Features]
- - [Prequisites]
- - [Projects Live]
- - [Project Structure]
+ - Project Overview
+ - Features
+ - Prequisites
+ - Projects Live
+ - Project Structure
 
 
 
