@@ -34,13 +34,17 @@ GitHub Link - https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment.git
 ## Project Structure
 Screen shorts of the project
 - Top Section
+  
 ![Top Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/be10fd3a-85a5-4c2d-aeb5-0c0662482c6f)
 
 - Mid Section
+  
 ![Mid section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/de1a96d5-3367-49a4-96d9-e8183ba30c9e)
 
 - Bottom Section
+  
 ![Bottom Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/699611ca-261c-4ec8-b18d-e26a67cb6f99)
 
 - Hotel Rooms Section
+  
 ![Hotel Rooms Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/35b4c273-aeaa-411c-857d-a5f3d0edd13f)
