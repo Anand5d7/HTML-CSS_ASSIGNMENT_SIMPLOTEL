@@ -47,4 +47,4 @@ Screen shorts of the project
 
 - Hotel Rooms Section
   
-  ![Hotel Rooms Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/f30ce41a-321a-4fa8-8889-1d4c7e901515)
+![Hotel Rooms Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/f30ce41a-321a-4fa8-8889-1d4c7e901515)
