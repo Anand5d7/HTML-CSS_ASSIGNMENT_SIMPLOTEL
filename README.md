@@ -5,7 +5,7 @@
 Creating a responsive HTML and CSS assignment with media queries for the landing page.
 ## Table of Contents
 
- - Project Overview
+ - [Project Overview](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/tree/main#project-overview)
  - Features
  - Prequisites
  - Projects Live
