@@ -35,16 +35,16 @@ GitHub Link - https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment.git
 Screen shorts of the project
 - Top Section
   
-![Top Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/be10fd3a-85a5-4c2d-aeb5-0c0662482c6f)
+![Top Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/94e7e2ca-a4be-42f1-86b8-a9aa109ca5fe)
 
 - Mid Section
   
-![Mid section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/de1a96d5-3367-49a4-96d9-e8183ba30c9e)
+![Mid section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/e0c7ab2b-fb1b-4a76-bdec-2a469d19a804)
 
 - Bottom Section
   
-![Bottom Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/699611ca-261c-4ec8-b18d-e26a67cb6f99)
+![Bottom Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/56bfd1eb-6384-4885-87d0-eea7c0285651)
 
 - Hotel Rooms Section
   
-![Hotel Rooms Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/35b4c273-aeaa-411c-857d-a5f3d0edd13f)
+  ![Hotel Rooms Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/f30ce41a-321a-4fa8-8889-1d4c7e901515)
