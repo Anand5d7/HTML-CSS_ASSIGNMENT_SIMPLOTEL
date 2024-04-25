@@ -36,7 +36,7 @@ Screen shorts of the project
 - Top Section
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]("C:\Users\anand\Videos\Captures\Top Section.png")
 
 - Mid Section
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
