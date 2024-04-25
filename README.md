@@ -34,9 +34,7 @@ GitHub Link - https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment.git
 ## Project Structure
 Screen shorts of the project
 - Top Section
-
-
-![App Screenshot]("C:\Users\anand\Videos\Captures\Top Section.png")
+![Top Section](https://github.com/Anand5d7/Simplotel-HTML-CSS-Assignment/assets/156296146/be10fd3a-85a5-4c2d-aeb5-0c0662482c6f)
 
 - Mid Section
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
