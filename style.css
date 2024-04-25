@@ -1,0 +1,339 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo-image {
+  display: none;
+  height: 60px;
+  width: 70px;
+  padding-left: 40px;
+}
+/* for Main Container */
+#container {
+  height: auto;
+  margin: auto;
+  border: 0px solid blue;
+}
+
+/* for Top Container */
+#container > #top-container {
+  border: 0px solid red;
+  height: 60px;
+  align-items: center;
+  margin: auto;
+}
+
+/* for Navbar */
+#container > #top-container > .navbar {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  height: 50px;
+  align-items: center;
+  border: 0px solid rgb(0, 255, 187);
+  justify-content: space-between;
+}
+
+#container > #top-container > .navbar > .navbar-left {
+  width: 50%;
+  margin-left: 10%;
+  display: flex;
+  border: 0px solid rgb(0, 255, 26);
+  justify-content: space-around;
+}
+
+#container > #top-container > .navbar > .navbar-right {
+  width: 10%;
+  display: flex;
+  gap: 15px;
+  border: 0px solid rgb(255, 157, 0);
+}
+
+#container > #top-container > .navbar > .navbar-right > div {
+  font-size: 27px;
+  border: 0px solid rgb(255, 157, 0);
+}
+
+.navbar-right img {
+  height: 32px;
+  margin: 0px;
+  padding: 0px;
+  width: 30px;
+}
+#container > #top-container > .navbar > .navbar-left h3 {
+  font-family: "YourFontFamily", sans-serif;
+  font-size: 21px;
+  color: black;
+  font-weight: 600;
+  font-style: unset;
+}
+
+/* for the hamburger menu */
+.hamburger-menu {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.hamburger-menu :hover {
+  cursor: pointer;
+}
+
+.hamburger-menu > .barmenu {
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  margin: 3.2px 0;
+}
+
+/* For Mid Container */
+#mid-container {
+  position: relative;
+}
+
+#mid-container .background-top-img-first {
+  height: 53vw;
+  overflow: hidden;
+}
+
+#mid-container .background-top-img-first img {
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+  height: 100%;
+}
+
+#mid-container .background-top-img-second {
+  position: absolute;
+  background: linear-gradient(to right, black, rgb(95, 94, 94));
+  text-align: center;
+  left: 3%;
+  top: 85%;
+  width: 30%;
+  padding: 10px;
+}
+
+#mid-container .background-top-img-second .btn {
+  font-size: 50px;
+  background-color: transparent;
+  color: white;
+  padding-bottom: 10px;
+  border: none;
+  font-family: "YourFontFamily", sans-serif;
+  font-style: unset;
+}
+
+@media screen and (min-width: 768px) {
+  .logo-image {
+    display: flex;
+  }
+}
+
+/* for Bottom Container */
+#container #bottom-container > .cont {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(167, 164, 164);
+  position: relative;
+  height: 170px;
+  font-family: "YourFontFamily", sans-serif;
+}
+
+.cont p {
+  text-align: center;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+
+/* Rooms Container */
+#Rooms-container .Rooms-content {
+  margin-top: 50px;
+  margin-bottom: 70px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#Rooms-container .Rooms-content h1 {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: "YourFontFamily", sans-serif;
+  padding-bottom: 33px;
+}
+
+#Rooms-container .Rooms-content .Hotel-orders {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+#Rooms-container .Rooms-content .Hotel-orders img {
+  height: 240px;
+  width: 380px;
+  padding-bottom: 20px;
+}
+
+#Rooms-container .Rooms-content .Hotel-orders  h2 {
+  font-size: 15px;
+  font-weight: 600;
+  font-family: "YourFontFamily", sans-serif;
+  padding-bottom: 10px;
+}
+
+.Dining h2 {
+  text-align: center;
+}
+
+.Pools h2 {
+  text-align: right;
+}
+
+#Rooms-container .Rooms-content .Hotel-orders p {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "YourFontFamily", sans-serif;
+  padding-bottom: 30px;
+}
+
+.Dining p {
+  text-align: center;
+}
+
+.Pools p {
+  text-align: right;
+}
+
+#Rooms-container .Rooms-content .Hotel-orders button {
+  font-size: 13px;
+  background-color: #000;
+  height: 32px;
+  width: 140px;
+  color: white;
+  font-weight: 600;
+  border: none;
+  font-family: "YourFontFamily", sans-serif;
+}
+
+.Dining div {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.Pools div {
+  display: flex;
+  justify-content: right;
+  align-self: right;
+}
+
+/* Media Query for Small Screens (Mobile) */
+@media  (max-width: 760px) {
+  /* for Top Container */
+  #container > #top-container > .navbar > .navbar-left {
+    display: none;
+  }
+
+  #container > #top-container > .navbar > .navbar-right {
+    margin-right: 5%;
+    justify-content: flex-end;
+  }
+
+  .hamburger-menu {
+    display: flex;
+    margin-left: 5%;
+  }
+  #mid-container .background-top-img-first {
+    height: 80vw;
+    overflow: hidden;
+  }
+  
+  #mid-container .background-top-img-first img {
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+    height: 100%;
+  }
+  /* for Mid Container */
+  #container
+    > #mid-container
+    > .background-container
+    > .background-top-img-first {
+    height: 70%;
+  }
+
+  #container
+    > #mid-container
+    > .background-container
+    > .background-top-img-second {
+    width: 60%;
+    height: auto;
+    padding: 15px;
+    left: 10%;
+    top: 15%;
+    opacity: 0.6;
+  }
+  #mid-container .background-top-img-second {
+    position: absolute;
+    left: 3%;
+    top: 80%;
+    width: 30%;
+    height: 18px;
+    text-align: center;
+  } 
+
+  #mid-container .background-top-img-second .btn {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+  }
+
+  /* for Bottom Container */
+  
+  #container > #bottom-container .cont {
+    height: auto;
+    flex-wrap: wrap;
+    padding-top: 10px;
+  }
+  .cont1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .cont2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .cont3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  /* for Rooms container */
+  #Rooms-container .Rooms-content .Hotel-orders {
+    flex-wrap: wrap;
+  }
+
+  #Rooms-container .Rooms-content {
+    margin: 0px
+  }
+
+  #Rooms-container .Rooms-content h1 {
+    padding-top: 20px;
+  }
+
+  #Rooms-container .Rooms-content .Hotel-orders .Rooms {
+    padding-bottom: 20px;
+  }
+  .Hotel-orders .Dining {
+    padding-bottom: 20px;
+  }
+  .Hotel-orders .Pools {
+    padding-bottom: 50px;
+  }
+}
